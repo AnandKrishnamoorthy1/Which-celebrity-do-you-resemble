@@ -3,7 +3,8 @@ Which celebrity do you resemble ?
 
 What it does: Given an input image, the Deep Learning model compares among 33 different celebrities and displays the top 3 celebrity resemblance.
 
-    Results
+Results
+
     • Predits with 86% accuracy the exact celebrity.
     • Accuracy compared to few implementations posted online.
     
