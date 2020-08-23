@@ -1,0 +1,1 @@
+Given an input image, the Deep Learning model compares among 33 different celbrities and displays the top 3 celebrity resemblence.
